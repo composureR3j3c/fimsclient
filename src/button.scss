@@ -1,0 +1,45 @@
+a.btn{
+  // color: #FFBC00;
+  background-color: #F2AC1C;
+  box-shadow: 0 6px 30px -10px rgba(#282c34, 1);
+  border-radius: 20px;
+  width: 120px;
+  height: 40px;
+  &:hover {
+   transform: translateY(-7px) translateX(+4px);
+   
+ }
+ }
+
+
+ button.btn{
+//   background-color: #F2AC1C;
+//   // color: #FFBC00;
+//   box-shadow: 0 6px 30px -10px rgba(#CCCCCC, 1);
+//   border-radius: 20px;
+//   width: 120px;
+//   height: 40px;
+  &:hover {
+   transform: translateY(-7px);
+   
+ }
+ }
+
+ input.form-control{
+  border:0;
+  border-bottom:1px solid #E4D4C7; 
+  border-radius:20 ; 
+ }
+
+ .App{
+   display: flex;
+    justify-content: center;
+   align-items: start;
+ }
+
+ p{
+  padding: 10 !important;
+ }
+.reqres{
+  width: 95%;
+}
