@@ -14,10 +14,10 @@
     "react-datepicker": "^4.8.0",
     "react-dom": "^18.2.0",
     "react-linechart": "^1.1.12",
+    "react-modal": "^3.16.1",
     "react-router-dom": "^6.8.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4",
-    "react-modal":"^3.16.1"
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
